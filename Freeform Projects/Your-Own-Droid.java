@@ -1,3 +1,10 @@
+/*
+Robotic vacuum cleaner which you can:
+1. activate with a method
+2. charge its battery
+3. check the battery level
+4. make him hover!
+*/
 public class Droid { //public class
   int batteryLevel;//instance variable
   public Droid() { //class constructor
